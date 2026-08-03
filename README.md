@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Dishit-07/leetcode-solutions/tree/master/0877-stone-game) |
+## String
+|  |
+| ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Dishit-07/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 <!---LeetCode Topics End-->
