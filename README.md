@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dishit-07/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Dishit-07/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Dishit-07/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 ## Array
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dishit-07/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0877-stone-game](https://github.com/Dishit-07/leetcode-solutions/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -37,5 +39,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dishit-07/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Dishit-07/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
