@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dishit-07/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Dishit-07/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0877-stone-game](https://github.com/Dishit-07/leetcode-solutions/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dishit-07/leetcode-solutions/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Dishit-07/leetcode-solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Dishit-07/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
