@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dishit-07/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Dishit-07/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Dishit-07/leetcode-solutions/tree/master/0015-3sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dishit-07/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0877-stone-game](https://github.com/Dishit-07/leetcode-solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Dishit-07/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dishit-07/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Dishit-07/leetcode-solutions/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Dishit-07/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/Dishit-07/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/Dishit-07/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dishit-07/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Dishit-07/leetcode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
