@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Dishit-07/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dishit-07/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dishit-07/leetcode-solutions/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Dishit-07/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dishit-07/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0877-stone-game](https://github.com/Dishit-07/leetcode-solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Dishit-07/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dishit-07/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0877-stone-game](https://github.com/Dishit-07/leetcode-solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -48,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Dishit-07/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dishit-07/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dishit-07/leetcode-solutions/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Dishit-07/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Dishit-07/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/Dishit-07/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/Dishit-07/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dishit-07/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Dishit-07/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -101,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Dishit-07/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dishit-07/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dishit-07/leetcode-solutions/tree/master/0018-4sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dishit-07/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
