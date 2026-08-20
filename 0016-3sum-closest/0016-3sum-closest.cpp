@@ -9,7 +9,7 @@ public:
             while(left < right){
                 int currSum = nums[i] + nums[left]+nums[right]; 
                 if(abs(currSum-target) < abs(closest-target)){
-                    closest = currSum ;
+                    closest = currSum;
                 }
                 if(currSum < target){
                     left++;
