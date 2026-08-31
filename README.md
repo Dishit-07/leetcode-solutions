@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dishit-07/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Dishit-07/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Dishit-07/leetcode-solutions/tree/master/0086-partition-list) |
 | [0234-palindrome-linked-list](https://github.com/Dishit-07/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Dishit-07/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 ## Array
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Dishit-07/leetcode-solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Dishit-07/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Dishit-07/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Dishit-07/leetcode-solutions/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Dishit-07/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dishit-07/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Dishit-07/leetcode-solutions/tree/master/0189-rotate-array) |
