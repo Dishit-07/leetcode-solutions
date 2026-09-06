@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dishit-07/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0115-distinct-subsequences](https://github.com/Dishit-07/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/Dishit-07/leetcode-solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dishit-07/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Dishit-07/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Dishit-07/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Dishit-07/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dishit-07/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Dishit-07/leetcode-solutions/tree/master/0567-permutation-in-string) |
