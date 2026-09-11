@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Dishit-07/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0877-stone-game](https://github.com/Dishit-07/leetcode-solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Dishit-07/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dishit-07/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dishit-07/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dishit-07/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dishit-07/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Dishit-07/leetcode-solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Dishit-07/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Dishit-07/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dishit-07/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Dishit-07/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Dishit-07/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Dishit-07/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dishit-07/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dishit-07/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dishit-07/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dishit-07/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
