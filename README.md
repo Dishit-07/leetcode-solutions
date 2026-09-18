@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Dishit-07/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Dishit-07/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Dishit-07/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dishit-07/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Dishit-07/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dishit-07/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Two Pointers
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Dishit-07/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Dishit-07/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dishit-07/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dishit-07/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dishit-07/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dishit-07/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dishit-07/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dishit-07/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dishit-07/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Dishit-07/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dishit-07/leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Dishit-07/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dishit-07/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
