@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dishit-07/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dishit-07/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Dishit-07/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Dishit-07/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dishit-07/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dishit-07/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dishit-07/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Dishit-07/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Dishit-07/leetcode-solutions/tree/master/0877-stone-game) |
 | [3524-find-x-value-of-array-i](https://github.com/Dishit-07/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Dishit-07/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dishit-07/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dishit-07/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Dishit-07/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Dishit-07/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
